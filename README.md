@@ -1,6 +1,6 @@
 # PAYTM Website
 
-## Paytm clone 🚀 Website's [Live Link](https://arpit-paytm.netlify.app/)🔗
+## Paytm clone 🚀 Website's [Live Link](https://arpit-mytm.netlify.app/)🔗
 
 >by Arpit Pathak ✨
 
